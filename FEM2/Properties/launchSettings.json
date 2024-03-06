@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FEM2": {
+      "commandName": "Project",
+      "workingDirectory": "..\\FEM2\\"
+    }
+  }
+}
